@@ -1,6 +1,11 @@
-### Hi there 👋 Tejeshwer Singh here...
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Tejeshwer Singh here...
 
-
+## GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tejeshwer25&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejeshwer25&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshwer25&theme=tokyonight" align="center" />
+</p>
 
 
 <!--
