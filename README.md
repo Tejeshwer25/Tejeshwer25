@@ -1,26 +1,29 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Tejeshwer Singh here...
+# Hi there! 👋 I'm Tejeshwer Singh Sachdeva
 
-## GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tejeshwer25&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejeshwer25&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshwer25&theme=tokyonight" align="center" />
-</p>
+Welcome to my GitHub profile! I’m an iOS developer with almost 2 years of experience, passionate about building intuitive and dynamic applications. Currently, I’m exploring new technologies and contributing to various open-source projects.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<!--
-**Tejeshwer25/Tejeshwer25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+<!--- - 🎯 I’m currently focused on iOS development.
+- 💼 Currently working at Hughes Network Systems.
+- 🌱 I'm always open to new challenges and learning opportunities. -->
 
-Here are some ideas to get you started:
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejeshwersinghsachdeva)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=github&logoColor=white)](https://tejeshwer-singh.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Technologies & Tools:
+- **Languages**: Swift, JavaScript, C++
+- **Tools & Frameworks**: Xcode, UIKit, SwiftUI, Git, Firebase, REST APIs, React, Next, Redux
+- **Platforms**: iOS, macOS, web
+- **Databases**: Firebase, SQLite, Core Data
+
+### 📊 GitHub Stats:
+#### Overall Stats:
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+#### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to check out my repositories and contribute if you’d like. 😊
